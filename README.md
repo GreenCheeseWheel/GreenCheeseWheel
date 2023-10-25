@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on React.js, Node.js, PostgreSQL & Rust. 
 - 🌱 I’m currently learning Rust's Tokio, and I'm looking for opportunities in low level programming.
-- ⚡ Fun fact: 
+- ⚡ Idea for when you are bored: Learn a difficult programming language! If you already know one, maybe writing your own NES emulator is a good idea... 👀
 
 ### My current stack:
 [![My Stack](https://skillicons.dev/icons?i=js,html,css,rust,react)](https://skillicons.dev)
